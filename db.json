@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "BRAVIA X75K 4K Ultra HD Smart TV",
+            "image": "https://www.ryans.com/storage/products/main/sony-bravia-x75k-50-inch-4k-uhd-smart-android-11700371966.webp",
+            "price": 348.09,
+            "review": 1150,
+            "category": "TV"
+        },
+        {
+            "id": 2,
+            "title": "Beats Studio Pro Wireless Headphones",
+            "image": "https://www.shopz.com.bd/wp-content/uploads/2023/11/Beats-Studio-Pro-Wireless-Headphones-1.jpg",
+            "price": 297.04,
+            "review": 850,
+            "category": "Headphone"
+        },
+        {
+            "id": 3,
+            "title": "Apple Watch SE 2022",
+            "image": "https://adminapi.applegadgetsbd.com/storage/media/large/Apple-Watch-SE-(2024)-2430.jpg",
+            "price": 294.48,
+            "review": 233,
+            "category": "Smart Watches"
+        },
+        {
+            "id": 4,
+            "title": "MSI G27C4X 27 Inch",
+            "image": "https://i.ebayimg.com/images/g/jTwAAOSwzONkL~E8/s-l1200.webp",
+            "price": 355,
+            "review": 2555,
+            "category": "Monitor"
+        },
+        {
+            "id": 5,
+            "title": "PlayStation®5 ",
+            "image": "https://i.etsystatic.com/27825707/r/il/a89458/2983886975/il_fullxfull.2983886975_edix.jpg",
+            "price": 322,
+            "review": 1720,
+            "category": "Gaming Console"
+        }
+    ]
+}
